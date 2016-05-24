@@ -1,0 +1,14 @@
+layout_spectrum: 0.36421476979739964
+typography_spectrum: 0.007744348840788007
+color:
+  brandStrength: 0.5840064445510507
+  lightness: 0.5155245633795857
+  saturation: 0.9536036571953446
+  rhythmicContrast: 0.5141612603329122
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: coolFW
